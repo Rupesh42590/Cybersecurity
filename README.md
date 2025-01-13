@@ -21,4 +21,4 @@ If you encounter any bugs, issues, or have suggestions for improvement, feel fre
 
 ## License
 
-This repository is open-source and licensed under the MIT License. Feel free to use, modify, and distribute the code for both personal and commercial purposes, but please give credit to the original work. For more details, check the [LICENSE](LICENSE) file.
+This repository is open-source and licensed under the MIT License. Feel free to use, modify, and distribute the code for both personal and commercial purposes, but please give credit to the original work. For more details, check the [LICENSE](LICENSE.md) file.
