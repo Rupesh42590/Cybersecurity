@@ -17,7 +17,7 @@ Feel free to fork this repository and submit pull requests for improvements, sug
 
 ## Open an Issue
 
-If you encounter any bugs, issues, or have suggestions for improvement, feel free to open an issue. You can also reach out to me directly via my [LinkedIn profile](www.linkedin.com/in/rupesh-malisetty-280a17343).
+If you encounter any bugs, issues, or have suggestions for improvement, feel free to open an issue. You can also reach out to me directly via my [LinkedIn profile](https://www.linkedin.com/in/rupesh-malisetty-280a17343/).
 
 ## License
 
