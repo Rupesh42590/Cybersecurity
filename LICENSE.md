@@ -1,4 +1,4 @@
-# MIT License
+# MIT LICENSE
 
 © 2025 Rupesh Malisetty
 
