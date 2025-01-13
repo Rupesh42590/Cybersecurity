@@ -14,6 +14,11 @@ This repository will contain different projects, some of which may include:
 
 Feel free to fork this repository and submit pull requests for improvements, suggestions, or new tools. Whether you're fixing bugs, improving documentation, or adding new features, contributions are always welcome! If you have any suggestions or feedback, feel free to open an issue.
 
+
+## Open an Issue
+
+If you encounter any bugs, issues, or have suggestions for improvement, feel free to open an issue. You can also reach out to me directly via my [LinkedIn profile](www.linkedin.com/in/rupesh-malisetty-280a17343).
+
 ## License
 
 This repository is open-source and licensed under the MIT License. Feel free to use, modify, and distribute the code for both personal and commercial purposes, but please give credit to the original work. For more details, check the [LICENSE](LICENSE) file.
