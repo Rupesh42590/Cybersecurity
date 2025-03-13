@@ -4,7 +4,7 @@
 
 The **Enigma machine** was a cipher device used by the German military during **World War II** to send secret messages. It worked like a typewriter but scrambled letters in a complex way, making messages unreadable—unless you knew the secret settings.
 
-## 🛠 How the Enigma Machine Works
+### 🛠 How the Enigma Machine Works
 
 Imagine you want to send a secret message, like:  
 👉 **"HELLO"**  
@@ -14,7 +14,7 @@ If you typed **E**, it might show **M**.
 
 By the time your whole message was typed, it would look like complete nonsense! But if the person on the other side had the **same machine set up with the same settings**, they could decode the message and read it properly.
 
-## ⚙️ Mechanics of the Enigma Machine
+### ⚙️ Mechanics of the Enigma Machine
 
 The Enigma machine used **three main components** to encrypt messages:
 
@@ -24,7 +24,7 @@ The Enigma machine used **three main components** to encrypt messages:
 
 Since the **rotor positions and plugboard settings changed daily**, the code was extremely difficult to crack.
 
-## 🔑 Importance of the Enigma Machine
+### 🔑 Importance of the Enigma Machine
 
 The Germans believed Enigma was **unbreakable**, but a team of Polish mathematicians and later **British codebreakers (including Alan Turing)** cracked it. This allowed the Allies to read German military plans in secret, playing a major role in winning the war.
 
