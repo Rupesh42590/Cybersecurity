@@ -1,6 +1,6 @@
 # Enigma Machine Simulator
 
-# 🔐 Enigma Machine
+## 🔐 Enigma Machine
 
 The **Enigma machine** was a cipher device used by the German military during **World War II** to send secret messages. It worked like a typewriter but scrambled letters in a complex way, making messages unreadable—unless you knew the secret settings.
 
