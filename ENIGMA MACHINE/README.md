@@ -28,16 +28,6 @@ Since the **rotor positions and plugboard settings changed daily**, the code was
 
 The Germans believed Enigma was **unbreakable**, but a team of Polish mathematicians and later **British codebreakers (including Alan Turing)** cracked it. This allowed the Allies to read German military plans in secret, playing a major role in winning the war.
 
-## 🎮 Enigma Machine Simulation
-
-Want to see how the Enigma machine works?  
-
-🔹 Check out **online Enigma machine simulators**  
-🔹 Try building a simple version using **Python**  
-
-Would you like a basic Python script to encrypt/decrypt messages like an Enigma machine? 😊
-
-
 ## Summary
 This project is a Python-based simulation of the historic **Enigma Machine**, a cipher device famously used during World War II for secure communication. The simulator replicates the encryption and decryption process of the Enigma Machine, providing a hands-on way to understand its mechanics and historical significance in cryptography.
 
