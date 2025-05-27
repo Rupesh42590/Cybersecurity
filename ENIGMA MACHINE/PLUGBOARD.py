@@ -1,4 +1,4 @@
-pimport pygame
+import pygame
 
 class Plugboard:
 
